@@ -2,28 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f8eff66-132a-4592-bf39-9d77f8008dd2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Contacts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Contacts.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NavMenu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NavMenu.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Projects.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Projects.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Skills.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Skills.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Slogan.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Slogan.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Skill.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Skill.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Skills.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581089747673</updated>
-      <workItem from="1581089749035" duration="6551000" />
+      <workItem from="1581089749035" duration="9348000" />
     </task>
     <servers />
   </component>
