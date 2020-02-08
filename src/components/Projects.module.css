@@ -1,4 +1,27 @@
 .projects {
     height: 100vh;
     background-color: indianred;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    width: 80%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: 2px solid black;
+}
+.title{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    border: 2px solid black;
+    margin-top: 50px;
+}
+.myProjects{
+    height: 50vh ;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
 }

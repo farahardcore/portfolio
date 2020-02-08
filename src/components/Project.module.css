@@ -1,0 +1,26 @@
+.project {
+    height: 500px;
+    background-color: indianred;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    text-align: center;
+    margin-top: 50px;
+}
+.container{
+width: 400px;
+}
+.view{
+    height: 350px;
+    margin: 0 auto;
+    border: 2px solid black;
+}
+
+.title{
+    height: 40px;
+    border: 2px solid black;
+}
+.description{
+    height: 100px;
+    border: 2px solid black;
+}
