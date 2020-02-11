@@ -13,3 +13,10 @@
 .link{
 
 }
+@media only screen and (max-width: 320px) {
+
+    .container{
+        width: 70%;
+
+    }
+}

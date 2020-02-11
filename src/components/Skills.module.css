@@ -9,14 +9,11 @@
     width: 80%;
     display: flex;
     flex-direction: column;
-    border: 2px solid black;
     text-align: center;
 }
 .skillsList{
-    border: 1px solid black;
     width: 100%;
     display: flex;
-    border: 2px solid black;
     text-align: center;
     justify-content: space-around;
 }
@@ -24,4 +21,71 @@
     height: 200px;
     display: flex;
     justify-content: center;
+}
+
+@media only screen and (max-width: 768px) {
+    .skills {
+       width: 100%;
+
+    }
+
+    .container {
+        margin-top: 25px;
+        width: 70%;
+
+
+    }
+    .title{
+        height: 100px;
+    }
+    .skillsList{
+        display: flex;
+        flex-wrap: wrap-reverse;
+
+    }
+
+}
+@media only screen and (max-width: 320px) {
+    .skills {
+        /*min-height: 500px;*/
+
+    }
+
+    .container {
+        margin-top: 50px;
+        width: 75%;
+        height: 85%;
+
+    }
+    .title{
+        height: 50px;
+    }
+    .skillsList{
+        display: flex;
+        flex-direction: column;
+
+    }
+
+}
+@media only screen and (min-width: 320px) {
+    .skills {
+        height: 100%;
+
+    }
+
+    .container {
+        margin-top: 25px;
+        width: 70%;
+
+
+    }
+    .title{
+        height: 100px;
+    }
+    .skillsList{
+        display: flex;
+        flex-wrap: wrap-reverse;
+
+    }
+
 }

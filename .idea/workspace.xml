@@ -2,20 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f8eff66-132a-4592-bf39-9d77f8008dd2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Link.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Link.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Project.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Project.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Contacts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Link.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Link.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Project.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Project.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Project.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Project.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Projects.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Slogan.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Slogan.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Skill.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skill.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Skills.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +93,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581089747673</updated>
-      <workItem from="1581089749035" duration="15450000" />
+      <workItem from="1581089749035" duration="16521000" />
+      <workItem from="1581431141703" duration="8713000" />
     </task>
     <servers />
   </component>
@@ -108,33 +106,36 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1581154853866" />
-    <state width="1516" height="210" key="GridCell.Tab.0.bottom" timestamp="1581157244674">
+    <state width="1515" height="208" key="GridCell.Tab.0.bottom" timestamp="1581436262004">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1516" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581157244674" />
-    <state width="1516" height="210" key="GridCell.Tab.0.center" timestamp="1581157244673">
+    <state width="1515" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581436262004" />
+    <state width="1515" height="208" key="GridCell.Tab.0.center" timestamp="1581436262004">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1516" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581157244673" />
-    <state width="1516" height="210" key="GridCell.Tab.0.left" timestamp="1581157244673">
+    <state width="1515" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581436262004" />
+    <state width="1515" height="208" key="GridCell.Tab.0.left" timestamp="1581436262004">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1516" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581157244673" />
-    <state width="1516" height="210" key="GridCell.Tab.0.right" timestamp="1581157244674">
+    <state width="1515" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581436262004" />
+    <state width="1515" height="208" key="GridCell.Tab.0.right" timestamp="1581436262004">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1516" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581157244674" />
-    <state x="426" y="187" key="run.anything.popup" timestamp="1581154735088">
+    <state width="1515" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581436262004" />
+    <state x="426" y="187" key="run.anything.popup" timestamp="1581431522151">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="426" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1581154735088" />
+    <state x="426" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1581431522151" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1581438926716">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1581438926716" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/components/Projects.js</url>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
