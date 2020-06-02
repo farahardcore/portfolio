@@ -7,8 +7,11 @@ function Project(props) {
             <div className={styles.image}>
                 <a className={styles.viewBtn}>View</a>
             </div>
-            <h3>{props.title}</h3>
-            <span className={styles.description}>{props.description}</span>
+            <div className={styles.projectInfo}>
+                <h3 className={styles.title}>{props.title}</h3>
+                <span className={styles.description}>{props.description}</span>
+            </div>
+
 
         </div>
     );

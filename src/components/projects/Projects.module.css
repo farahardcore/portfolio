@@ -1,6 +1,6 @@
 .projects {
     height: 100vh;
-    background-color: indianred;
+    background-color: #1f1f20;
 
 }
 .container{
@@ -8,16 +8,12 @@
     align-items: center;
     flex-wrap: nowrap;
     }
-.title{
-
-
-}
 .myProjects{
     width: 100%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-
+    align-items: flex-start;
 }
 @media only screen and (min-width: 340px) {
     .myProjects {
