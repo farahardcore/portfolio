@@ -1,0 +1,26 @@
+.projects {
+    height: 100vh;
+    background-color: indianred;
+
+}
+.container{
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: nowrap;
+    }
+.title{
+
+
+}
+.myProjects{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+@media only screen and (min-width: 340px) {
+    .myProjects {
+        width: 80%;
+    }
+}

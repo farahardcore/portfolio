@@ -1,0 +1,38 @@
+.contacts {
+    height: 50vh;
+    background-color: blueviolet;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.container{
+    flex-direction: column;
+
+}
+.title{
+
+}
+.form{
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.form input {
+    width: 99%;
+}
+.form textarea{
+    width: 99%;
+}
+.submitBtn{
+    padding: 10px 20px;
+    background-color: deepskyblue;
+}
+@media only screen and (max-width: 600px) {
+    .form {
+        width: 80% ;
+    }
+}
+

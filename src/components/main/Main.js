@@ -1,14 +1,15 @@
 import React from 'react';
 import styles from "./Main.module.css"
+import styleContainer from "../../common/styles/Container.module.css";
 
 function Main() {
     return (
         <div className={styles.main}>
-            <div className={styles.container}>
+            <div className={styleContainer.container}>
                 <div className={styles.greeting}>
                     <span>Hello</span>
-                    <span>my name is Farid Mohammad</span>
-                    <span>Im Frontend Developer</span>
+                    <h1>I am  Farid Mohammad</h1>
+                    <p>Frontend Developer</p>
                 </div>
                 <div className={styles.photo}>
                     <img src="" alt="photo"/>

@@ -1,0 +1,33 @@
+.project {
+    width: 350px;
+    background-color: indianred;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid red;
+
+}
+
+.image{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid red;
+
+
+}
+.viewBtn{
+ background-color: deepskyblue;
+    padding: 10px 20px;
+}
+
+
+
+
+
+@media only screen and (max-width: 1110px) {
+    .project {
+        width: 100vh ;
+        height: 220px;
+    }
+}
