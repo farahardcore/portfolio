@@ -3,6 +3,12 @@
 .title{
     margin-top: 20px;
     position: relative;
+    &:hover{
+        &::before{
+        background-color: $textColor;
+    }
+
+    }
     &::before{
         left: 50%;
         bottom: -10px;
