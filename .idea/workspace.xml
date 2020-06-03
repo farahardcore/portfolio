@@ -2,15 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f8eff66-132a-4592-bf39-9d77f8008dd2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/common/components/title/Title.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/components/title/title.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/image/soc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/styles/mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/styles/variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/components/title/Title.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/title/Title.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/components/title/title.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/title/title.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/styles/Container.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/styles/Container.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/contacts/Contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contacts/Contacts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/contacts/Contacts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contacts/Contacts.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/Footer.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/Link.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/Link.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/Link.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/Link.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/NavMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/NavMenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/NavMenu.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/NavMenu.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/main/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/main/Main.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/Main.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/projects/Project.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/projects/Project.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/projects/Project.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/projects/Project.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/projects/Project.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/projects/Project.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/projects/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/projects/Projects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/projects/Projects.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/projects/Projects.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/projects/Projects.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/projects/Projects.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/skills/Skill.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/skills/Skill.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/skills/Skill.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/skills/Skill.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/skills/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/skills/Skills.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/skills/Skills.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/skills/Skills.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +58,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../todolists-examples-master/10-simpletodolist-for-redux/simple-todolist" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/common/styles" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -59,6 +80,7 @@
       <recent name="C:\Users\FARID\Desktop\IT-INCUBATOR\portfolio\src\components\skills" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\FARID\Desktop\IT-INCUBATOR\portfolio\src\common\styles" />
       <recent name="C:\Users\FARID\Desktop\IT-INCUBATOR\portfolio\src\components" />
     </key>
   </component>
@@ -102,34 +124,37 @@
       <workItem from="1581089749035" duration="16521000" />
       <workItem from="1581431141703" duration="8921000" />
       <workItem from="1591112443059" duration="2670000" />
-      <workItem from="1591115150888" duration="13001000" />
+      <workItem from="1591115150888" duration="20074000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="208" key="GridCell.Tab.0.bottom" timestamp="1591115188244">
+    <state width="1515" height="208" key="GridCell.Tab.0.bottom" timestamp="1591197555938">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591115188244" />
-    <state width="1515" height="208" key="GridCell.Tab.0.center" timestamp="1591115188244">
+    <state width="1515" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591197555938" />
+    <state width="1515" height="208" key="GridCell.Tab.0.center" timestamp="1591197555936">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591115188244" />
-    <state width="1515" height="208" key="GridCell.Tab.0.left" timestamp="1591115188244">
+    <state width="1515" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591197555936" />
+    <state width="1515" height="208" key="GridCell.Tab.0.left" timestamp="1591197555935">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591115188244" />
-    <state width="1515" height="208" key="GridCell.Tab.0.right" timestamp="1591115188244">
+    <state width="1515" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591197555935" />
+    <state width="1515" height="208" key="GridCell.Tab.0.right" timestamp="1591197555936">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591115188244" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1591117440590">
+    <state width="1515" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591197555936" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1591200408819">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1591117440590" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1591200408819" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
