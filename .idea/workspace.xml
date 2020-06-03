@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f8eff66-132a-4592-bf39-9d77f8008dd2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/image/soc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/styles/mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/styles/variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/components/title/Title.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/title/Title.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/components/title/title.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/title/title.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/styles/Container.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/styles/Container.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/contacts/Contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contacts/Contacts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/contacts/Contacts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contacts/Contacts.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/footer/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/Footer.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/footer/Link.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/Link.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/footer/Link.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/Link.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/NavMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/NavMenu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/NavMenu.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/NavMenu.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/main/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/Main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/main/Main.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/Main.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/projects/Project.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/projects/Project.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/projects/Project.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/projects/Project.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/projects/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/projects/Projects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/projects/Projects.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/projects/Projects.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/skills/Skill.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/skills/Skill.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/skills/Skill.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/skills/Skill.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/skills/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/skills/Skills.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/skills/Skills.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/skills/Skills.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/styles/mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/styles/mixins.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +96,7 @@
       <workItem from="1581089749035" duration="16521000" />
       <workItem from="1581431141703" duration="8921000" />
       <workItem from="1591112443059" duration="2670000" />
-      <workItem from="1591115150888" duration="20074000" />
+      <workItem from="1591115150888" duration="20288000" />
     </task>
     <servers />
   </component>
